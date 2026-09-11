@@ -1,3 +1,4 @@
+streamlit>=1.40.0
 # Core LLM + LangChain ecosystem
 langchain>=0.2.0
 langchain-core>=0.2.0
@@ -42,3 +43,4 @@ pydantic>=2.5.0
 
 # Optional (for advanced parsing / HTML cleanup)
 html5lib>=1.1
+
